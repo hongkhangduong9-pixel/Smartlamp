@@ -1,0 +1,6 @@
+{
+  "name": "Blynk Light",
+  "description": "Điều khiển đèn ESP32 siêu tốc qua Blynk Cloud và Quick Settings Tiles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

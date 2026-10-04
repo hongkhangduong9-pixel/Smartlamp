@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Blynk Light</string>
+    <string name="tile_light_1_label">Đèn 1</string>
+    <string name="tile_light_2_label">Đèn 2</string>
+    <string name="state_on">Đang BẬT</string>
+    <string name="state_off">Đang TẮT</string>
+    <string name="state_toggling_on">Đang bật...</string>
+    <string name="state_toggling_off">Đang tắt...</string>
+    <string name="error_no_token">Chưa cấu hình Auth Token</string>
+    <string name="error_network">Lỗi kết nối mạng</string>
+    <string name="error_blynk">Lỗi Blynk Cloud</string>
+</resources>
