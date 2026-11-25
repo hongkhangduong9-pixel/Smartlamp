@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Blynk Light</string>
+    <string name="tile_default_label_1">Light 1</string>
+    <string name="tile_default_label_2">Light 2</string>
+    <string name="tile_default_label_3">Light 3</string>
+    <string name="tile_default_label_4">Light 4</string>
+    <string name="tile_default_label_5">Light 5</string>
+    <string name="tile_default_label_6">Light 6</string>
+    <string name="tile_default_label_7">Light 7</string>
+    <string name="tile_default_label_8">Light 8</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_offline">OFFLINE</string>
+    <string name="timer_deferred_message">Timer scheduling will be enabled in a future ESP32 firmware update.</string>
+</resources>
